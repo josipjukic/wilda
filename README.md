@@ -36,6 +36,9 @@ From a mechanistic perspective, demonstrations induce **latent activation shifts
 
 ### Method: WILDA
 
+<img width="1097" height="213" alt="wilda" src="https://github.com/user-attachments/assets/e4a0860b-aa49-452b-9bfc-b296643bdfe2" />
+
+
 WILDA introduces a **teacher–student framework** to encode ICL behavior into adapters:
 
 1. **Teacher (ICL model)**  
